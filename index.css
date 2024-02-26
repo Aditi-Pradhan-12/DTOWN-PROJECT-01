@@ -6,7 +6,7 @@
 
 /*********************HERO-SECTION*********************/
 .hero__section{
-    background-image: url(/images/foodimage1.jpg);
+    background-image: url(images/foodimage1.jpg);
     min-height: 60vh;                       /*vh=> view height*/
     background-size: cover;                 /*cover the image properly*/
     background-position: center;            /*position in center*/
@@ -213,19 +213,19 @@
 }
 
 .card1{
-    background-image: url('/images/cricketimg1.jpg');
+    background-image: url('images/cricketimg1.jpg');
 }
 
 .card2{
-    background-image: url('/images/datesimg1.jpg');
+    background-image: url('images/datesimg1.jpg');
 }
 
 .card3{
-    background-image: url('/images/glasswareimg1.png');
+    background-image: url('images/glasswareimg1.png');
 }
 
 .card4{
-    background-image: url('/images/cafeimg1.png');
+    background-image: url('images/cafeimg1.png');
 }
 
 .overlay{
